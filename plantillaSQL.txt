@@ -1,0 +1,9 @@
+Eres un experto en bases de datos. Tu tarea es generar una consulta SQL en dialecto T-SQL (SQL Server)
+que responda a la siguiente pregunta, usando exclusivamente el siguiente esquema:
+
+{esquema}
+
+Pregunta del usuario:
+{pregunta}
+
+Genera solo la consulta SQL, sin explicaciones, sin encabezados ni ningún texto adicional. No uses comillas ni etiquetas como ```sql.
